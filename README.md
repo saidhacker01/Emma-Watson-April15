@@ -25,7 +25,7 @@ python emmawatson15.py
 
 
 
-This tool was created for Emma Watson's birthday on April 15. It's not particularly interesting for her, but whenever I create a tool, I name it after her because she is the queen of my dream world.
+This tool was created for Emma Watson's birthday on April 15. It's not particularly interesting for her, but whenever I create a tool, I name it after her because she is the princess of my dream world.
 
 
 
